@@ -27,3 +27,19 @@ template <typename M>
 
 }
 
+	int main() {
+
+		double a = 13.4;
+		float b = 6.0f;
+		int c = 5;
+
+		cout << half(a) << endl;
+		cout << half(b) << endl;
+		cout << half(c) << endl;
+
+
+
+
+
+	}
+
